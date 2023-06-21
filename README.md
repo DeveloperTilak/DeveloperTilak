@@ -4,6 +4,7 @@
 - [Resume](#resume)
 - [GithubStats](#GithubStats)
 - [ConnectWithMe](#ConnectWithMe)
+- [LinkedIn](#linkedin)
 - [TechStack](#TechStack)
 
 
@@ -15,7 +16,7 @@
 
 ## Portfolio
 
-- 👨‍💻My Portflio [https://developertilak.github.io/](https://developertilak.github.io/)
+- 👨‍💻My Portflio [https://developertilak.github.io/](https://developertilak.github.io/)]
 
 - 📫 How to reach me **tilakram5075@gmail.com**
 
@@ -34,9 +35,12 @@
 
  
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/developer tilak](https://www.linkedin.com/in/developer-tilak/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer tilak" height="30" width="40" /></a>
-</p>
+
+# Linkedin 
+ 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20">](https://www.linkedin.com/in/developer-tilak/)
+
+
 
 ## TechStack
 <h3 align="left">Languages and Tools:</h3>
