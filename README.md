@@ -4,7 +4,7 @@
 - [Resume](#resume)
 - [GithubStats](#GithubStats)
 - [ConnectWithMe](#ConnectWithMe)
-- [LinkedIn](#linkedin)
+
 - [TechStack](#TechStack)
 
 
@@ -20,11 +20,15 @@
 
 
 ## Resume
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DJG7AoC-UQC0BGt_QEPDDj6bq1ihGpNZ/view](https://drive.google.com/file/d/1DJG7AoC-UQC0BGt_QEPDDj6bq1ihGpNZ/view)
-- - 📫 How to reach me **tilakram5075@gmail.com**
+
+
 
 
 ## GithubStats
+
+
 - <div display="flex">
 <p>&nbsp;<img align="center"  widh="30%" src="https://github-readme-stats.vercel.app/api?username=developertilak&show_icons=true&locale=en" alt="developertilak" /></p>
 
@@ -36,13 +40,13 @@
  
 <h3 align="left">Connect with me:</h3>
 
-# Linkedin 
+
  
-<a href="https://www.linkedin.com/in/developer-tilak/" target="_blank">
+- <a href="https://www.linkedin.com/in/developer-tilak/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20">
 </a>
 
-
+- 📫 How to reach me **tilakram5075@gmail.com**
 
 ## TechStack
 <h3 align="left">Languages and Tools:</h3>
