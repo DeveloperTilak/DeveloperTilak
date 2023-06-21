@@ -15,10 +15,6 @@
 - 🌱 I’m currently learning **at MASAI SCHOOL FULLSTACK WEB-DEVELOPEMENT.**
 
 
-## Portfolio
-
-<h2><a href="https://developertilak.github.io">Jump To My Portfolio</a></h2>
-
 
 ## Resume
 
@@ -50,6 +46,10 @@
  
 
 - 📫 How to reach me **tilakram5075@gmail.com**
+
+## Portfolio
+
+<h2><a href="https://developertilak.github.io/">Jump To My Portfolio</a></h2>
 
 
 ## 👨‍💻 TECH STACK :
