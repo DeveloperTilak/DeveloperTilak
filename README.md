@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **at MASAI SCHOOL FULLSTACK WEB-DEVELOPEMENT.**
 
 ## Portfolio
-<a href="https://developertilak.github.io/" target="_blank">Jump To My Portfolio</a>
+<a href="https://developertilak.github.io" target="_blank">Jump To My Portfolio</a>
 
 
 
