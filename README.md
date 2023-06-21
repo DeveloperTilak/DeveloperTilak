@@ -17,7 +17,7 @@
 
 ## Portfolio
 
-<h2><a href="https://developertilak.github.io/">Jump To My Portfolio</a></h2>
+<h2><a href="https://developertilak.github.io">Jump To My Portfolio</a></h2>
 
 
 ## Resume
@@ -40,12 +40,14 @@
 
  
 <h3 align="left">Connect with me:</h3>
+- <a href="https://www.linkedin.com/in/developer-tilak" target="_blank">
+  <!-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20"> -->
+
+     LINKEDIN
+</a>
 
 
  
-- <a href="https://www.linkedin.com/in/developer-tilak/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20">
-</a>
 
 - 📫 How to reach me **tilakram5075@gmail.com**
 
@@ -62,7 +64,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
