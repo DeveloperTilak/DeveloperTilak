@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **tilakram5075@gmail.com**
 
-- 
 ## Resume
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DJG7AoC-UQC0BGt_QEPDDj6bq1ihGpNZ/view](https://drive.google.com/file/d/1DJG7AoC-UQC0BGt_QEPDDj6bq1ihGpNZ/view)
 
