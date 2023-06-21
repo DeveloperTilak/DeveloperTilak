@@ -15,13 +15,14 @@
 - 🌱 I’m currently learning **at MASAI SCHOOL FULLSTACK WEB-DEVELOPEMENT.**
 
 ## Portfolio
+<a href="https://developertilak.github.io/" target="_blank">Jump To My Portfolio</a>
 
-- 👨‍💻My Portflio [https://developertilak.github.io/](https://developertilak.github.io/)]
 
-- 📫 How to reach me **tilakram5075@gmail.com**
 
 ## Resume
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DJG7AoC-UQC0BGt_QEPDDj6bq1ihGpNZ/view](https://drive.google.com/file/d/1DJG7AoC-UQC0BGt_QEPDDj6bq1ihGpNZ/view)
+- - 📫 How to reach me **tilakram5075@gmail.com**
+
 
 ## GithubStats
 - <div display="flex">
