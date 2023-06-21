@@ -3,8 +3,7 @@
 As a web developer, I specialize in a wide range of programming languages and frameworks, including HTML, CSS, JavaScript, React, and Node.js. With these tools at my disposal, I can build custom websites that are optimized for performance, security, and user experience.
 
 📫 How to reach me: tilakram5075@gmail.com
-My Portfolio: https://developertilak.github.io/
-Let's Connect Over Linkedin: linkedin.com/in/developer-tilak
+
 <!--
 **DeveloperTilak/DeveloperTilak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
